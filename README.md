@@ -2,11 +2,11 @@
 
 <details>
   <summary>Deutsch 🇩🇪</summary>
-  <h2>Über mich</h2>
+  <h2>🧑‍💻 Über mich</h2>
   <p>Hey! Ich bin Tarobi.</p>
-  <p>Full-Stack Webentwickler</p>
+  <p>Ich bin Full-Stack-Webentwickler</p>
 
-  <h2>Programmiersprachen und Frameworks</h2>
+  <h2>⚙️ Programmiersprachen und Frameworks</h2>
   <ul>
     <li>Vue.js</li>
     <li>Laravel</li>
@@ -16,7 +16,7 @@
     <li>Python</li>
   </ul>
 
-  <h2>Sprachen</h2>
+  <h2>🌍 Sprachen</h2>
   <table>
     <thead><tr><td>Sprache</td><td>Sprachlevel</td></tr></thead>
     <tbody>
@@ -27,11 +27,11 @@
 </details>
 <details>
   <summary>English 🇬🇧/🇺🇸</summary>
-  <h2>About me</h2>
+  <h2>🧑‍💻 About me</h2>
   <p>Hey! I'm Tarobi.</p>
-  <p>Full-Stack web developer</p>
+  <p>I'm a full-stack web developer</p>
 
-  <h2>Programming languages and frameworks</h2>
+  <h2>⚙️ Programming languages and frameworks</h2>
   <ul>
     <li>Vue.js</li>
     <li>Laravel</li>
@@ -41,12 +41,12 @@
     <li>Python</li>
   </ul>
 
-  <h2>Languages</h2>
+  <h2>🌍 Languages</h2>
   <table>
     <thead><tr><td>Language</td><td>Proficiency</td></tr></thead>
     <tbody>
-      <tr><td>German</td><td>Native speaker</td></tr>
-      <tr><td>English</td><td>B2/C1</td></tr>
+      <tr><td>German</td><td>Native proficiency</td></tr>
+      <tr><td>English</td><td>Professional working proficiency (B2/C1)</td></tr>
     </tbody>
   </table>
 </details>
