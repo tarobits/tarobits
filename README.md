@@ -1,5 +1,9 @@
 # Tarobi
 
+[🇩🇪 Meine Webseite](https://tarobits.github.io)<br><br>
+[🇬🇧/🇺🇸 My Webpage](https://tarobits.github.io)
+<hr>
+
 <details>
   <summary>Deutsch 🇩🇪</summary>
   <h2>🧑‍💻 Über mich</h2>
