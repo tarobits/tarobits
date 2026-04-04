@@ -1,12 +1,11 @@
 <div style="display: flex; justify-content: end; gap: 5px;">
-<a style="color: white; text-decoration: none; background-color: gray; border-radius: 15px;
+<a style="margin-left: auto; color: white; text-decoration: none; background-color: gray; border-radius: 15px;
 padding-left: 5px;
 padding-right: 5px;" href="./README.md">English 🇺🇸 / 🇬🇧</a>
 </div>
 
 # Tarobi
 
-<hr>
 <h2>🧑‍💻 Über mich</h2>
   <p>Hey! Ich bin Tarobi.</p>
   <p>Ich bin Full-Stack-Webentwickler</p>
