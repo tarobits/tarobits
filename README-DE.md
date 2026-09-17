@@ -18,6 +18,7 @@ padding-right: 5px;" href="./README.md">English 🇺🇸 / 🇬🇧</a>
     <li>JavaScript</li>
     <li>PHP</li>
     <li>Python</li>
+    <li>Java</li>
   </ul>
 
   <h2>🌍 Sprachen</h2>
